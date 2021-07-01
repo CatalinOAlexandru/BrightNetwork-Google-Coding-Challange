@@ -1,6 +1,8 @@
 # BrightNetwork-Google-Coding-Challange
- Part of the Bright Network internship where I worked on a Google Challange to create a YouTube CLI simulator.
+ Part of the Bright Network internship (Internship Experience UK) where I worked on a Google Challange to create a YouTube CLI simulator.
 
+Original link:
+https://github.com/internship-experience-uk/google-code-sample/tree/main/python
 
 
 # Youtube Challenge - Python
